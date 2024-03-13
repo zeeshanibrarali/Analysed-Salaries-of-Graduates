@@ -14,7 +14,7 @@ What are the lowest-risk college majors from an earnings standpoint?
 Do business, STEM (Science, Technology, Engineering, Mathematics) or HASS (Humanities, Arts, Social Science) degrees earn more on average?
 
 
-##learning points
+## learning points
 
 Use .head(), .tail(), .shape and .columns to explore your DataFrame and find out the number of rows and columns as well as the column names.
 
